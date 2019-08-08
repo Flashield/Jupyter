@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+readfree.me	FALSE	/	FALSE	1591103199	csrftoken	0el9P7du4PxUau3HHpVh7FV939yr7FrfBSYEwELHZGmuZjMJ0HI4sVWb7liBNtX4
+readfree.me	FALSE	/	FALSE	1560258402	sessionid	6e7ee9oama24e5nwo7p4h6ikgelvtwk0

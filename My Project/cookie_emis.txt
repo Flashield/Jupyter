@@ -1,0 +1,16 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.js.cmcc	TRUE	/	FALSE		ObSSOCookie	eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJ6aHVhbmdiaW4iLCJzdWIiOiJ6aHVhbmdiaW4jIzIzMTExOTk5IiwiaXNzIjoiTngtU2VjdXJpdHktQmFzaWMiLCJpYXQiOjE1NjMyNjYyNjUsImV4cCI6MTU2MzI5NTA2NX0.uMAcfdolO451cqymhBUpNtfe7nPLkR7Frm-K6MQhIYs
+.js.cmcc	TRUE	/	FALSE		company	NT
+.js.cmcc	TRUE	/	FALSE		displayName	%E5%BA%84%E5%BD%AC
+.js.cmcc	TRUE	/	FALSE		ngPortalSkinName	blue
+.js.cmcc	TRUE	/	FALSE		oaUrlPrefix	natoa.js.cmcc/NTOA
+.js.cmcc	TRUE	/	FALSE		pwdExpired	false
+.js.cmcc	TRUE	/	FALSE		server	jwt
+.js.cmcc	TRUE	/	FALSE	1565858265	uid	zhuangbin
+emis.js.cmcc	FALSE	/	FALSE		BIGipServerpool_PorWebApp	2342854666.36895.0000
+emis.js.cmcc	FALSE	/login	FALSE		JSESSIONID	6615D1AE45CB8CE06B058DDBBC8951CE
+emis.js.cmcc	FALSE	/portal	FALSE		JSESSIONID	FEC0C620E2FA789F7BC3548031193DD7
+service.js.cmcc	FALSE	/addressbook-view/	FALSE		JSESSIONID	7C9322524313CE982D2E9AE8D8658398

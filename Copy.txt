@@ -1,0 +1,38 @@
+﻿测试文件！
+有时有问题，通过系统服务好像不行！
+http://mylib.nlc.cn/web/guest/reader_login?redirect=/web/guest/home
+作为远程传送文件。
+http://mylib.nlc.cn/system/doc/books/25326461/20120405_01/477828/12
+这个红点点不知道是怎么来的。
+换了一个新的onedrive进行同步，感觉要比原来的那个onedrive-d更加可靠！
+OK?
+
+巧虎：https://pan.baidu.com/s/1lbKM4SiT49ueDMKWZ7n1gw
+
+13.12%	17.28%	20.38%	12.80%	14.51%	17.80%	13.99%	13.24%	13.98%	14.61%
+
+GET /school/configDhb.do?nextStep=getData&_dc=1536502020690&arg_1=201808&arg_2=99&reportId=10593&reportLevel=1&page=1&start=0&limit=17 HTTP/1.1
+Host: 10.32.233.45:7100
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://10.32.233.45:7100/school/configDhb.do?nextStep=toIndex&reportId=10593&contentId=C10006031&fastWay=1
+X-Requested-With: XMLHttpRequest
+Cookie: JSESSIONID=GSTpbVyJCcYLDJYQ1rv1kfL1SngytDsfML1V00w3J26nyFfd40jk!-1432397707
+Connection: close
+
+POST /school/configDhb.do?nextStep=getHeader HTTP/1.1
+Host: 10.32.233.45:7100
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://10.32.233.45:7100/school/configDhb.do?nextStep=toIndex&reportId=10593&contentId=C10006031&fastWay=1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 28
+Cookie: JSESSIONID=GSTpbVyJCcYLDJYQ1rv1kfL1SngytDsfML1V00w3J26nyFfd40jk!-1432397707
+Connection: close
+
+reportId=10593&reportLevel=1

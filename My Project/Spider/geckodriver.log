@@ -1,0 +1,43 @@
+1563517742066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DpaCB0TukSDH"
+1563517745310	Marionette	INFO	Listening on port 2828
+[Child 1339] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 1339] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+1563517823664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nq7cy9FleDHa"
+1563517825744	Marionette	INFO	Listening on port 2828
+[Child 1470] WARNING: pipe error (26): Connection reset by peer: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 1470] WARNING: pipe error: Broken pipe: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+[Child 1470] WARNING: pipe error: Broken pipe: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+[Child 1470] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 1470] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 1470] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+1563518525284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i302JKFTl3uJ"
+1563518528050	Marionette	INFO	Listening on port 2828
+[Child 3058] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 3058] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1563518609348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bogzAIa8KBiP"
+1563518611756	Marionette	INFO	Listening on port 2828
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3209] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 3209] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+1563518941707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CQIg3OYCFSMx"
+1563518943930	Marionette	INFO	Listening on port 2828
+[Child 3535] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 3535] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+

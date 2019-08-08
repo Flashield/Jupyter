@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+js.189.cn	FALSE	/	FALSE		cityCode	js_nt
+js.189.cn	FALSE	/umall	FALSE		umallJSessionID	5B1B3EE737B026D12CFCC2CCC3292AB5-an1
