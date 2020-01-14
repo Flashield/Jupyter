@@ -1,7 +1,7 @@
 from random import shuffle as sl
 from random import randint as rd
-def gn():  #生成1到1000的一个随机数
-    num = rd(1,1000)  
+def gn():   #生成1到1000的一个随机数
+    num = rd(1,1000)  
     return num  
 def w2f(f,num,fg):  #将num写入文件f，并根据fg的值决定是否换行
     f.write(str(num))  

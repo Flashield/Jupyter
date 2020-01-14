@@ -1,0 +1,3 @@
+In Python you can: caculate the value of PI.
+In Python you can: crwal the web.
+In Python you can: build the web server of wechat.

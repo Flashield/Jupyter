@@ -1,7 +1,7 @@
 #%%
 from sklearn import svm
 import numpy
-All_Data = numpy.loadtxt('./Jupyter/DataMining/DML.csv',dtype=float,delimiter=',')
+All_Data = numpy.loadtxt('./DataMining/DML.csv',dtype=float,delimiter=',')
 test_data = All_Data[0:2000,0:53]
 test_rlt =  All_Data[0:2000,54:]
 #%%
@@ -15,3 +15,4 @@ clf.fit(test_data, test_rlt.ravel())
 print(clf.score(validate_data, validate_rlt))
 y_hat = clf.predict(validate_data)
 #print(y_hat)
+
