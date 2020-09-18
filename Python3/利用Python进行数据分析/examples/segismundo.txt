@@ -1,0 +1,3 @@
+Contents 内容 in segismundo.txt.
+For Example.
+中文。

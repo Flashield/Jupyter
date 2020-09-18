@@ -40,7 +40,7 @@ def get_baidu_access_token():
         request = opener.open(acc_token_url,post_data)
         html = request.read().decode(encoding='UTF8',errors='ignore')
         acc_token = json.loads(html)
-        access_token['access_token'] = acc_token['access_token']
+        access_token['baidu_ai_access_token'] = acc_token['access_token']
         access_token['live_time'] = int(time.time())+acc_token['expires_in']-3600
         with open('cfg_file.cfg','w') as cfg_file:
             cfg_file.write(str(access_token))
@@ -48,7 +48,7 @@ def get_baidu_access_token():
 
 def baidu_gen_ocr_url(PicUrl):
     access_token = get_baidu_access_token()
-    gen_ocr_url = 'https://aip.baidubce.com/rest/2.0/ocr/v1/general_basic?access_token={}'.format(access_token['access_token'])
+    gen_ocr_url = 'https://aip.baidubce.com/rest/2.0/ocr/v1/general_basic?access_token={}'.format(access_token['baidu_ai_access_token'])
     headers = [('Content-Type','application/x-www-form-urlencoded'),]
     opener = urllib.request.build_opener()
     opener.addheaders = headers

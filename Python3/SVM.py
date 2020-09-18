@@ -16,3 +16,4 @@ print(clf.score(validate_data, validate_rlt))
 y_hat = clf.predict(validate_data)
 #print(y_hat)
 
+import pandas

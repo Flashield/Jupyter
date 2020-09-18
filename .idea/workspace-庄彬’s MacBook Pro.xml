@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d576c9c-87fe-43d3-b53f-d049d54ea630" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/My Project/AI/SKLearn/分类算法.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My Project/AI/SKLearn/聚类算法.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/alien_invasion/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/第十五章、生成数据.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/第十六章、下载数据.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTF/Base64_32_16解码_MD5加密.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CTF/Base64_32_16解码_MD5加密.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My Project/AI/算法笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/My Project/AI/算法笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My Project/Database/MariaDB.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/My Project/Database/MariaDB.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My Project/RegEx/RegEx.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/My Project/RegEx/RegEx.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My Project/Spider/BeautifulSoup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/My Project/Spider/BeautifulSoup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My Project/Spider/Xuexi.cn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/My Project/Spider/Xuexi.cn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My Project/URL_HTTPS-meitulu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/My Project/URL_HTTPS-meitulu.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/alien_invasion/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/alien_invasion/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/alien_invasion/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/alien_invasion/game_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/alien_invasion/images/ship.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/alien_invasion/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/alien_invasion/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/alien_invasion/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/alien_invasion/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/第六章、字典.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/第六章、字典.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3/Python编程：从入门到实践/第十二章、项目1（武装飞船）.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python3/SVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python3/SVM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMP-Py2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TMP-Py2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMP-Py3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TMP-Py3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeiXin/WeiXinServer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/WeiXin/WeiXinServer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeiXin/wxfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeiXin/wxfunc.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="87fd49bd-e097-4ae3-a583-a7094c192db5" />
+  <component name="ProjectId" id="1ZYNVs3gV9O0oJFrL5CCb0TEUwo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d576c9c-87fe-43d3-b53f-d049d54ea630" name="Default Changelist" comment="" />
+      <created>1585012094981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585012094981</updated>
+      <workItem from="1585012100918" duration="1325000" />
+      <workItem from="1585013973438" duration="113000" />
+      <workItem from="1585014214064" duration="10391000" />
+      <workItem from="1585041351623" duration="546000" />
+      <workItem from="1585106702826" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="194" key="FileChooserDialogImpl" timestamp="1585106756696">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="473" y="194" key="FileChooserDialogImpl/0.23.1440.797@0.23.1440.797" timestamp="1585106756696" />
+    <state width="1878" height="188" key="GridCell.Tab.0.bottom" timestamp="1585041405694">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1324" height="188" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585014313466" />
+    <state width="1878" height="188" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585041405694" />
+    <state width="1878" height="188" key="GridCell.Tab.0.center" timestamp="1585041405692">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1324" height="188" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585014313464" />
+    <state width="1878" height="188" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585041405692" />
+    <state width="1878" height="188" key="GridCell.Tab.0.left" timestamp="1585041405690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1324" height="188" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585014313463" />
+    <state width="1878" height="188" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585041405690" />
+    <state width="1878" height="188" key="GridCell.Tab.0.right" timestamp="1585041405693">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1324" height="188" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585014313465" />
+    <state width="1878" height="188" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585041405693" />
+    <state x="187" y="72" key="SettingsEditor" timestamp="1585106793379">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="177" y="47" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585039057047" />
+    <state x="187" y="72" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1585106793379" />
+    <state x="374" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1585106703647">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="355" y="253" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585014213706" />
+    <state x="499" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585041360593" />
+    <state x="374" y="286" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1585106703647" />
+  </component>
+</project>

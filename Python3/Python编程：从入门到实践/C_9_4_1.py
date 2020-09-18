@@ -1,6 +1,7 @@
 """一个可用于表示汽车的类"""
 
-class Car():
+
+class Car:
     """一次模拟汽车的简单尝试"""
 
     def __init__(self, make, model, year):
