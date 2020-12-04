@@ -1,6 +1,10 @@
 **/.DS_Store
 **/*.pyc
+**/*.vswp
 **/.ipynb_checkpoints/*
 **/__pycache__/*
 **/*.bak
+**/*.csv
+**/*.xls
+**/*.xlsx
 **/.vscode/*
